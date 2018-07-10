@@ -1,0 +1,39 @@
+{
+  "name": "zmap",
+  "version": "1.0.0",
+  "description": "集成百度地图、高德地图、烽火gis的地图调用工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pela-lele/zmap.git"
+  },
+  "keywords": [
+    "BMap、AMap、FHMap"
+  ],
+  "author": "pela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pela-lele/zmap/issues"
+  },
+  "homepage": "https://github.com/Pela-lele/zmap#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-uglify": "^3.0.0",
+    "run-sequence": "^2.2.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
